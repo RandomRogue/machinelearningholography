@@ -8,3 +8,5 @@ The code expects to be in the same folder as the helpers function, some paths fo
 The code for the helpers function isn't included here as it felt ethically ambiguous at best.
 
 There might be some issues with joblib on other systems, I didn't fully understand how the parellelising actually worked so just in case you should be able to change the number of jobs it tries to run at once. 
+
+# Main.pdf is the report
